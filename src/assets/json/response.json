@@ -1,0 +1,25 @@
+FindItemsResults {totalCount: 1390, nextPageOffset: 20, moreAvailable: true, items: Array(20), highlightTerms: Array(0)}
+HighlightTerms:Array(0)
+length:0
+__proto__:Array(0)
+Items:(...)
+MoreAvailable:true
+NextPageOffset:20
+TotalCount:1390
+highlightTerms:Array(0)
+items:Array(20)
+moreAvailable:true
+nextPageOffset:20
+totalCount:1390
+
+FindItemsResults {totalCount: 20, nextPageOffset: 20, moreAvailable: true, items: Array(20), highlightTerms: Array(0)}
+HighlightTerms:Array(0)
+Items:(...)
+MoreAvailable:true
+NextPageOffset:20
+TotalCount:20
+highlightTerms:Array(0)
+items:Array(20)
+moreAvailable:true
+nextPageOffset:20
+totalCount:20
